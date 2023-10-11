@@ -15,13 +15,13 @@ const About = () => {
             </View>
             <Text style={styles.mainHeader}>Follow me on Social Networks</Text>
             <View style={styles.menuContainer}>
-                <Pressable style={styles.buttonStyle} onPress={() => Linking.openURL('https://www.instagram.com/igirraj/')}>
+                <Pressable style={styles.buttonStyle} onPress={() => Linking.openURL('https://www.instagram.com/cybersecboy/')}>
                     <Image source={{ uri: 'https://img.icons8.com/?size=512&id=YtpeVQhQ8USm&format=png' }} style={styles.iconStyle} />
                 </Pressable>
-                <Pressable style={styles.buttonStyle} onPress={() => Linking.openURL('https://www.instagram.com/igirraj/')}>
+                <Pressable style={styles.buttonStyle} onPress={() => Linking.openURL('https://www.instagram.com/cybersecboy/')}>
                     <Image source={{ uri: 'https://img.icons8.com/?size=512&id=MU6KaMFUbw_E&format=png' }} style={styles.iconStyle} />
                 </Pressable>
-                <Pressable style={styles.buttonStyle} onPress={() => Linking.openURL('https://www.instagram.com/igirraj/')}>
+                <Pressable style={styles.buttonStyle} onPress={() => Linking.openURL('https://www.instagram.com/cybersecboy/')}>
                     <Image source={{ uri: 'https://img.icons8.com/?size=512&id=D2NqKl85S8Ye&format=png' }} style={styles.iconStyle} />
                 </Pressable>
             </View>
